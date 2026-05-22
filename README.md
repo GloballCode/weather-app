@@ -1,10 +1,36 @@
-*FEM Weather App Hackathon*
-Hi y'all! The name's Sheriff! (Sheriff or Globall. Call me whatever ya want :D) 
-I'm from Brazil, and started to learn how 2 code this year, a few months ago. So yea, this is my first ever Hackathon! :D 
-As i'm still new into this, big part of the code was written by ChatGPT, but revised by me. (Does that disqualifies me?)
-I think the most difficult part to me was connect with the API. I don't understand a lot of JS and this was kinda the first/second time i *really* use it to a webpage. 
-Uh, being realistic, i don't know how 2 write a good README. I don't even know why we have to write a README. But i hope this is what it needs.
-Probably i won't win this thing, but next year, i'll be better than ever, and win it without using AI. 
-I used normal HTML, CSS and JS to that. Simple but functional. The API was OpenMeteo's. Some images were from the files in the official challenge page. 
-And i think that's it. 
-I took a lil' bit too much to code this bcs i had lots of *personal* things to solve, and i had problems with the API.
+# FEM Weather App Hackathon
+
+Hi y'all! The name's Sheriff!  
+(Sheriff or Globall — call me whatever ya want :D)
+
+I'm from Brazil and started learning how to code earlier this year, so yeah… this is my first ever hackathon!
+
+Since I'm still new to programming, part of the code was written with the help of ChatGPT, but reviewed and adjusted by me.  
+(And no, that doesn't disqualify me 😭)
+
+The hardest part for me was connecting the API. I still don't understand JavaScript very well, and this was basically the first or second time I seriously used it in a real webpage project.
+
+To be honest, I don't really know how to write a good README yet.  
+I barely even know why READMEs exist in the first place. But I hope this does the job :D
+
+I probably won't win this hackathon, but next year I'll come back stronger — and maybe build everything without AI helping me this time haha.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- Open-Meteo API
+
+Some images used in the project came from the official challenge files.
+
+## Live website
+[https://hiimsheriff.netlify.app/]
+
+## Notes
+
+This project took me longer than expected because I had a lot of personal things to deal with, plus some API integration issues.
+
+But hey — it's simple, functional, and I learned a LOT while building it.
+
+
