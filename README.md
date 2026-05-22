@@ -1,7 +1,7 @@
 # FEM Weather App Hackathon
 
 Hi y'all! The name's Sheriff!  
-(Sheriff or Globall — call me whatever ya want :D)
+(Sheriff or Globall. Call me whatever ya want :D)
 
 I'm from Brazil and started learning how to code earlier this year, so yeah… this is my first ever hackathon!
 
@@ -31,6 +31,6 @@ Some images used in the project came from the official challenge files.
 
 This project took me longer than expected because I had a lot of personal things to deal with, plus some API integration issues.
 
-But hey — it's simple, functional, and I learned a LOT while building it.
+But hey, it's simple, functional, and I learned a LOT while building it.
 
 
